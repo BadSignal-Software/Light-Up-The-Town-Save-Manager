@@ -10,7 +10,7 @@ A UE4SS mod for **Light Up The Town** that seamlessly integrates a **three-slot 
 > Unofficial fan-made mod. Not affiliated with or endorsed by the game's developer. Also sometimes when clicking "new game" the real button function returns and says "are you sure you want to overwrite?" make sure to press "no" then click the button again. We are working to fix this, but as we cannot reproduce the problem reliably it is harder to fix. If you have had this issue, please send us the logs in an issue thread so we can fix it.
 
 > [!WARNING]  
-> **BACK UP YOUR SAVES!** While this mod includes safety backups, the author takes no responsibility for potential save data loss. Use at your own risk.
+> **BACK UP YOUR SAVES!** While this mod includes safety backups, we take no responsibility for potential save data loss. Use at your own risk.
 
 ---
 
