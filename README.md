@@ -7,7 +7,7 @@
 A UE4SS mod for **Light Up The Town** that seamlessly integrates a **three-slot save system** into the main menu. Choose your save slot when clicking **New Game** or **Continue**, fully styled to match the game's native UI.
 
 > [!NOTE]  
-> Unofficial fan-made mod. Not affiliated with or endorsed by the game's developer.
+> Unofficial fan-made mod. Not affiliated with or endorsed by the game's developer. Also sometimes when clicking "new game" the real button function returns and says "are you sure you want to overwrite?" make sure to press "no" then click the button again. We are working to fix this, but as we cannot reproduce the problem reliably it is harder to fix.
 
 > [!WARNING]  
 > **BACK UP YOUR SAVES!** While this mod includes safety backups, the author takes no responsibility for potential save data loss. Use at your own risk.
