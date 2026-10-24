@@ -123,4 +123,4 @@ If you encounter bugs, please attach `savemanager_log.txt` along with your prima
 
 ## 👤 Credits
 
-Developed by **ShadowCanvas815**.
+Developed and maintained by **ShadowCanvas815**.
