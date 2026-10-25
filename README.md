@@ -26,7 +26,7 @@ A UE4SS mod for **Light Up The Town** that seamlessly integrates a **three-slot 
 - **Native Aesthetic:** Built using the game's original fonts, color palette, and rounded button styles.
 - **Automatic First-Run Backup:** Automatically preserves your original pre-mod save files inside an untouched `original_backup` folder.
 - **Mod Manager Compatible:** Includes `modmanager.json` for full integration with the Light Up The Town Mod Manager.
-- **‼️ The mod manager is a dependency ‼️**
+- **‼️ The mod manager is a dependency ‼️** You can get it at https://github.com/BadSignal-Software/Light-Up-The-Town-Mod-Manager
 - mod manager.json is included so the mod will be setup ready for modmanager installation.
 
 ---
